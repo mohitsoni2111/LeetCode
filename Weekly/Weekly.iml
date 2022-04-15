@@ -3,6 +3,7 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/276" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/277" isTestSource="false" packagePrefix="Leetcode_Online_Judge_Solutions" />
       <sourceFolder url="file://$MODULE_DIR$/285" isTestSource="false" packagePrefix="weekly_285" />
     </content>
