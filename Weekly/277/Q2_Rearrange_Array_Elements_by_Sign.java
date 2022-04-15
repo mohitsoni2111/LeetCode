@@ -1,7 +1,7 @@
 // https://leetcode.com/problems/rearrange-array-elements-by-sign/
 package Leetcode_Online_Judge_Solutions;
 
-public class Rearrange_Array_Elements_by_Sign {
+public class Q2_Rearrange_Array_Elements_by_Sign {
 
     /*
     Input: nums =   [3,1,-2,-5,2,-4]

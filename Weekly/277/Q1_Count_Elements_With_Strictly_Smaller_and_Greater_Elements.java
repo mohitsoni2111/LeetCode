@@ -2,7 +2,7 @@
 
 package Leetcode_Online_Judge_Solutions;
 
-public class Count_Elements_With_Strictly_Smaller_and_Greater_Elements {
+public class Q1_Count_Elements_With_Strictly_Smaller_and_Greater_Elements {
     public int countElements(int[] nums) {
         int min = Integer.MAX_VALUE;
         int max = Integer.MIN_VALUE;
